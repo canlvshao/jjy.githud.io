@@ -662,7 +662,7 @@
 									variant: "h4",
 									component: "h1",
 									gutterBottom: !0,
-									children: "李思念专属便携小空调"
+								children: "林嘉欣属便携小空调"
 								}), Object(d.jsx)(v, {}), Object(d.jsx)(
 									Ee, {
 										status: e.status,
